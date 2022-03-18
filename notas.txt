@@ -1,0 +1,3 @@
+git tag -a v1.0.0 -m "Fin curso seccion 8" ->permite crearle un tag al proyecto en git 
+git push --tags -> permite subir el tag a git 
+
